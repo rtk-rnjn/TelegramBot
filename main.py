@@ -52,3 +52,4 @@ if __name__ == "__main__":
     print(f"{Fore.GREEN}Added handler for start and help{Style.RESET_ALL}")
 
     application.run_polling()
+    
